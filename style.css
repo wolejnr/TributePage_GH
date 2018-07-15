@@ -1,9 +1,8 @@
-body{
-  margin-top:60px;
-}
-
-b{
-  color: green;
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
 }
 
 li{
